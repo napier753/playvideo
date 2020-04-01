@@ -1,0 +1,63 @@
+Manifest-Version: 1.0
+Main-Class: com.example.design.demo.DemoApplication
+Class-Path: jackson-datatype-jdk8-2.9.10.jar lucene-suggest-7.4.0.jar ja
+ ckson-databind-2.9.10.2.jar log4j-api-2.11.2.jar httpcore-4.4.13.jar hp
+ pc-0.7.1.jar spring-webmvc-5.1.13.RELEASE.jar netty-codec-http-4.1.45.F
+ inal.jar stax-ex-1.8.jar xercesImpl-2.11.0.jar jul-to-slf4j-1.7.30.jar 
+ lucene-memory-7.4.0.jar nekohtml-1.9.22.jar spring-data-elasticsearch-3
+ .1.15.RELEASE.jar spring-boot-starter-jdbc-2.1.12.RELEASE.jar spring-bo
+ ot-devtools-2.1.12.RELEASE.jar shiro-web-1.3.2.jar rank-eval-client-6.4
+ .3.jar javax.activation-api-1.2.0.jar jaxb-runtime-2.3.1.jar javax.tran
+ saction-api-1.3.jar spring-web-5.1.13.RELEASE.jar istack-commons-runtim
+ e-3.0.7.jar ecj-3.12.3.jar lucene-spatial3d-7.4.0.jar reactive-streams-
+ 1.0.3.jar shiro-core-1.3.2.jar javax.annotation-api-1.3.2.jar spring-bo
+ ot-starter-data-redis-2.1.12.RELEASE.jar spring-tx-5.1.13.RELEASE.jar s
+ pring-boot-starter-json-2.1.12.RELEASE.jar HikariCP-3.2.0.jar commons-l
+ ang-2.6.jar jackson-datatype-jsr310-2.9.10.jar slf4j-api-1.7.30.jar hsq
+ ldb-2.4.1.jar hibernate-commons-annotations-5.0.4.Final.jar classmate-1
+ .4.0.jar jackson-dataformat-yaml-2.9.10.jar HdrHistogram-2.1.9.jar t-di
+ gest-3.2.jar tomcat-embed-core-9.0.29.jar hibernate-validator-6.0.18.Fi
+ nal.jar spring-aop-5.1.13.RELEASE.jar spring-boot-starter-data-jpa-2.1.
+ 12.RELEASE.jar tomcat-annotations-api-9.0.30.jar lucene-spatial-extras-
+ 7.4.0.jar jackson-dataformat-smile-2.9.10.jar transport-netty4-client-6
+ .4.3.jar snakeyaml-1.23.jar spring-context-support-5.1.13.RELEASE.jar s
+ pring-data-jpa-2.1.15.RELEASE.jar antlr-2.7.7.jar spring-oxm-5.1.13.REL
+ EASE.jar lang-mustache-client-6.4.3.jar netty-resolver-4.1.45.Final.jar
+  spring-core-5.1.13.RELEASE.jar spring-boot-starter-data-elasticsearch-
+ 2.1.12.RELEASE.jar tomcat-embed-jasper-8.5.23.jar javax.persistence-api
+ -2.2.jar jboss-logging-3.3.3.Final.jar netty-transport-4.1.45.Final.jar
+  thymeleaf-3.0.11.RELEASE.jar validation-api-2.0.1.Final.jar thymeleaf-
+ extras-java8time-3.0.4.RELEASE.jar elasticsearch-6.4.3.jar spring-jcl-5
+ .1.13.RELEASE.jar netty-handler-4.1.45.Final.jar jackson-annotations-2.
+ 9.10.jar javassist-3.23.2-GA.jar jna-4.5.1.jar spring-boot-starter-2.1.
+ 12.RELEASE.jar spring-data-keyvalue-2.1.15.RELEASE.jar commons-codec-1.
+ 11.jar lucene-spatial-7.4.0.jar jackson-module-parameter-names-2.9.10.j
+ ar hamcrest-core-1.3.jar spring-boot-starter-thymeleaf-2.1.12.RELEASE.j
+ ar httpasyncclient-4.1.4.jar spring-boot-starter-web-2.1.12.RELEASE.jar
+  tomcat-embed-el-9.0.30.jar spring-aspects-5.1.13.RELEASE.jar netty-buf
+ fer-4.1.45.Final.jar jackson-core-2.9.10.jar lucene-grouping-7.4.0.jar 
+ thymeleaf-spring5-3.0.11.RELEASE.jar aspectjweaver-1.9.5.jar xml-apis-1
+ .4.01.jar elasticsearch-cli-6.4.3.jar commons-beanutils-1.8.3.jar sprin
+ g-boot-autoconfigure-2.1.12.RELEASE.jar jna-3.0.9.jar elasticsearch-x-c
+ ontent-6.4.3.jar logback-classic-1.2.3.jar spring-expression-5.1.13.REL
+ EASE.jar lucene-misc-7.4.0.jar elasticsearch-rest-client-6.4.3.jar juni
+ t-4.12.jar spring-data-commons-2.1.15.RELEASE.jar lucene-queries-7.4.0.
+ jar lucene-queryparser-7.4.0.jar lucene-backward-codecs-7.4.0.jar elast
+ icsearch-secure-sm-6.4.3.jar jandex-2.0.5.Final.jar spring-boot-2.1.12.
+ RELEASE.jar parent-join-client-6.4.3.jar byte-buddy-1.9.16.jar logback-
+ core-1.2.3.jar spring-boot-starter-logging-2.1.12.RELEASE.jar dom4j-2.1
+ .1.jar mysql-connector-java-5.1.21.jar spring-boot-starter-aop-2.1.12.R
+ ELEASE.jar txw2-2.3.1.jar lucene-sandbox-7.4.0.jar httpcore-nio-4.4.13.
+ jar spring-beans-5.1.13.RELEASE.jar netty-common-4.1.45.Final.jar jacks
+ on-dataformat-cbor-2.9.10.jar shiro-spring-1.3.2.jar transport-6.4.3.ja
+ r hibernate-core-5.3.15.Final.jar jaxb-api-2.3.1.jar lucene-highlighter
+ -7.4.0.jar percolator-client-6.4.3.jar reindex-client-6.4.3.jar log4j-t
+ o-slf4j-2.11.2.jar spring-jdbc-5.1.13.RELEASE.jar reactor-core-3.2.14.R
+ ELEASE.jar httpclient-4.5.10.jar spring-data-redis-2.1.15.RELEASE.jar a
+ ttoparser-2.0.5.RELEASE.jar lucene-join-7.4.0.jar lettuce-core-5.1.8.RE
+ LEASE.jar lucene-core-7.4.0.jar lucene-analyzers-common-7.4.0.jar compi
+ ler-0.9.3.jar netty-codec-4.1.45.Final.jar elasticsearch-core-6.4.3.jar
+  jopt-simple-5.0.2.jar FastInfoset-1.2.15.jar spring-context-5.1.13.REL
+ EASE.jar spring-orm-5.1.13.RELEASE.jar joda-time-2.10.5.jar unbescape-1
+ .1.6.RELEASE.jar
+
